@@ -1,6 +1,6 @@
 # Spellingsvarianten van Nederlandse plaatsnamen 
 
-Deze repository bevat een overzicht van veelvoorkomende spelfouten van Nederlandse woonplaatsen. Het bestand is gebaseerd op gegevens van het CBS. Het bestand heeft een variable 'Variant' welke een spellingsvariant van de daadwerkelijke plaatsnaam kan zijn. De werkelijke plaatsnaam is gegeven. Evenals de plaatsnaamcode, de provincie en landsdeel.
+Deze repository bevat een overzicht van veelvoorkomende spelfouten van Nederlandse woonplaatsen. Het bestand is gebaseerd op gegevens van het CBS. Het bestand heeft een variable 'Variant' welke een spellingsvariant van de daadwerkelijke plaatsnaam kan zijn (ook de juiste versie is terug te vinden). De werkelijke plaatsnaam is gegeven evenals de plaatsnaamcode, de provincie en landsdeel.
 
 In het bestand input/miscellaneous.csv kunnen plaatsnamen of spellingsvarianten worden toegevoegd waarna ze met parse.py bij het hoofdbestand kunnen worden gevoegd. Het is belangrijk dat de Woonplaats in dit bestand een woonplaats is die terug te vinden is in raw/Woonplaatsen_in_Nederland.csv. Een voorbeeld is Den Haag als variant van 's-Gravenhage. 
 
