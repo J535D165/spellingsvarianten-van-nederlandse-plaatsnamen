@@ -13,7 +13,6 @@ Voorbeeld van de data:
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th></th>
       <th>Variant</th>
       <th>Woonplaats</th>
       <th>Woonplaatscode</th>
@@ -27,124 +26,114 @@ Voorbeeld van de data:
   </thead>
   <tbody>
     <tr>
-      <th>1433</th>
-      <td>nijelamer</td>
-      <td>Nijelamer</td>
-      <td>1728</td>
-      <td>Weststellingwerf</td>
-      <td>GM0098</td>
+      <td>bos &amp; duin</td>
+      <td>Bosch en Duin</td>
+      <td>2823</td>
+      <td>Zeist</td>
+      <td>GM0355</td>
+      <td>Utrecht</td>
+      <td>PV26</td>
+      <td>West-Nederland</td>
+      <td>LD03</td>
+    </tr>
+    <tr>
+      <td>broeksterwald</td>
+      <td>Broeksterwâld</td>
+      <td>3265</td>
+      <td>Dantumadiel</td>
+      <td>GM1891</td>
       <td>Friesland</td>
       <td>PV21</td>
       <td>Noord-Nederland</td>
       <td>LD01</td>
     </tr>
     <tr>
-      <th>2575</th>
-      <td>nybroek</td>
-      <td>Nijbroek</td>
-      <td>2607</td>
-      <td>Voorst</td>
-      <td>GM0285</td>
+      <td>loenga</td>
+      <td>Loënga</td>
+      <td>3505</td>
+      <td>Súdwest-Fryslân</td>
+      <td>GM1900</td>
+      <td>Friesland</td>
+      <td>PV21</td>
+      <td>Noord-Nederland</td>
+      <td>LD01</td>
+    </tr>
+    <tr>
+      <td>westerhaar vriezenveensewyk</td>
+      <td>Westerhaar-Vriezenveensewijk</td>
+      <td>3327</td>
+      <td>Twenterand</td>
+      <td>GM1700</td>
+      <td>Overijssel</td>
+      <td>PV23</td>
+      <td>Oost-Nederland</td>
+      <td>LD02</td>
+    </tr>
+    <tr>
+      <td>kootwijck</td>
+      <td>Kootwijk</td>
+      <td>1062</td>
+      <td>Barneveld</td>
+      <td>GM0203</td>
       <td>Gelderland</td>
       <td>PV25</td>
       <td>Oost-Nederland</td>
       <td>LD02</td>
     </tr>
     <tr>
-      <th>2968</th>
-      <td>hei&amp;boeicop</td>
-      <td>Hei- en Boeicop</td>
-      <td>2109</td>
-      <td>Zederik</td>
-      <td>GM0707</td>
+      <td>wanswert</td>
+      <td>Wânswert</td>
+      <td>3210</td>
+      <td>Ferwerderadiel</td>
+      <td>GM1722</td>
+      <td>Friesland</td>
+      <td>PV21</td>
+      <td>Noord-Nederland</td>
+      <td>LD01</td>
+    </tr>
+    <tr>
+      <td>bleiswijck</td>
+      <td>Bleiswijk</td>
+      <td>1689</td>
+      <td>Lansingerland</td>
+      <td>GM1621</td>
       <td>Zuid-Holland</td>
       <td>PV28</td>
       <td>West-Nederland</td>
       <td>LD03</td>
     </tr>
     <tr>
-      <th>2735</th>
-      <td>boven leeuwen</td>
-      <td>Boven-Leeuwen</td>
-      <td>1770</td>
-      <td>West Maas en Waal</td>
-      <td>GM0668</td>
-      <td>Gelderland</td>
-      <td>PV25</td>
-      <td>Oost-Nederland</td>
-      <td>LD02</td>
+      <td>beek &amp; donk</td>
+      <td>Beek en Donk</td>
+      <td>1446</td>
+      <td>Laarbeek</td>
+      <td>GM1659</td>
+      <td>Noord-Brabant</td>
+      <td>PV30</td>
+      <td>Zuid-Nederland</td>
+      <td>LD04</td>
     </tr>
     <tr>
-      <th>2757</th>
-      <td>s graveland</td>
-      <td>'s-Graveland</td>
-      <td>3000</td>
-      <td>Wijdemeren</td>
-      <td>GM1696</td>
-      <td>Noord-Holland</td>
-      <td>PV27</td>
-      <td>West-Nederland</td>
-      <td>LD03</td>
+      <td>berg &amp; terblijt</td>
+      <td>Berg en Terblijt</td>
+      <td>1716</td>
+      <td>Valkenburg aan de Geul</td>
+      <td>GM0994</td>
+      <td>Limburg</td>
+      <td>PV31</td>
+      <td>Zuid-Nederland</td>
+      <td>LD04</td>
     </tr>
     <tr>
-      <th>1551</th>
-      <td>oostknollendam</td>
-      <td>Oostknollendam</td>
-      <td>2285</td>
-      <td>Wormerland</td>
-      <td>GM0880</td>
-      <td>Noord-Holland</td>
-      <td>PV27</td>
-      <td>West-Nederland</td>
-      <td>LD03</td>
-    </tr>
-    <tr>
-      <th>1030</th>
-      <td>klarenbeek</td>
-      <td>Klarenbeek</td>
-      <td>2606</td>
-      <td>Voorst</td>
-      <td>GM0285</td>
-      <td>Gelderland</td>
-      <td>PV25</td>
-      <td>Oost-Nederland</td>
-      <td>LD02</td>
-    </tr>
-    <tr>
-      <th>1345</th>
-      <td>munnekeburen</td>
-      <td>Munnekeburen</td>
-      <td>1725</td>
-      <td>Weststellingwerf</td>
-      <td>GM0098</td>
+      <td>sibrandahus</td>
+      <td>Sibrandahûs</td>
+      <td>3274</td>
+      <td>Dantumadiel</td>
+      <td>GM1891</td>
       <td>Friesland</td>
       <td>PV21</td>
       <td>Noord-Nederland</td>
       <td>LD01</td>
-    </tr>
-    <tr>
-      <th>1594</th>
-      <td>oude willem</td>
-      <td>Oude Willem</td>
-      <td>3117</td>
-      <td>Westerveld</td>
-      <td>GM1701</td>
-      <td>Drenthe</td>
-      <td>PV22</td>
-      <td>Noord-Nederland</td>
-      <td>LD01</td>
-    </tr>
-    <tr>
-      <th>2731</th>
-      <td>beneden leeuwen</td>
-      <td>Beneden-Leeuwen</td>
-      <td>1769</td>
-      <td>West Maas en Waal</td>
-      <td>GM0668</td>
-      <td>Gelderland</td>
-      <td>PV25</td>
-      <td>Oost-Nederland</td>
-      <td>LD02</td>
     </tr>
   </tbody>
 </table>
