@@ -37,6 +37,11 @@ def main():
 
 	places.columns = ['Woonplaats', 'Woonplaatscode','Gemeente', 'Gemeente_code', 'Provincie', 'Provincie_code', 'Landsdeel', 'Landsdeel_code']
 
+	municipalities = places.drop_duplicates('Gemeente')
+	municipalities['Woonplaats'] = municipalities['Gemeente']
+	municipalities['Woonplaatscode'] = ''
+	places = places.append(municipalities)
+
 	# Convert all places to lowercase
 	places['Variant'] = places['Woonplaats'].str.lower()
 
