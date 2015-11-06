@@ -255,15 +255,15 @@ riethoven;Riethoven;1459;Bergeijk;GM1724;Noord-Brabant;PV30;Zuid-Nederland;LD04
 westerhoven;Westerhoven;1460;Bergeijk;GM1724;Noord-Brabant;PV30;Zuid-Nederland;LD04
 afferden l;Afferden L;1122;Bergen (L.);GM0893;Limburg;PV31;Zuid-Nederland;LD04
 bergen (l.);Bergen (L.);;Bergen (L.);GM0893;Limburg;PV31;Zuid-Nederland;LD04
-bergen;Bergen (L.);;Bergen (L.);GM0893;Limburg;PV31;Zuid-Nederland;LD04
+bergen l;Bergen (L.);;Bergen (L.);GM0893;Limburg;PV31;Zuid-Nederland;LD04
 bergen l;Bergen L;1121;Bergen (L.);GM0893;Limburg;PV31;Zuid-Nederland;LD04
 siebengewald;Siebengewald;1123;Bergen (L.);GM0893;Limburg;PV31;Zuid-Nederland;LD04
 well l;Well L;1124;Bergen (L.);GM0893;Limburg;PV31;Zuid-Nederland;LD04
 wellerlooi;Wellerlooi;1125;Bergen (L.);GM0893;Limburg;PV31;Zuid-Nederland;LD04
 bergen (nh);Bergen (NH);3047;Bergen (NH.);GM0373;Noord-Holland;PV27;West-Nederland;LD03
-bergen;Bergen (NH);3047;Bergen (NH.);GM0373;Noord-Holland;PV27;West-Nederland;LD03
+bergen nh;Bergen (NH);3047;Bergen (NH.);GM0373;Noord-Holland;PV27;West-Nederland;LD03
 bergen (nh.);Bergen (NH.);;Bergen (NH.);GM0373;Noord-Holland;PV27;West-Nederland;LD03
-bergen;Bergen (NH.);;Bergen (NH.);GM0373;Noord-Holland;PV27;West-Nederland;LD03
+bergen nh;Bergen (NH.);;Bergen (NH.);GM0373;Noord-Holland;PV27;West-Nederland;LD03
 bergen aan zee;Bergen aan Zee;3046;Bergen (NH.);GM0373;Noord-Holland;PV27;West-Nederland;LD03
 egmond aan zee;Egmond aan Zee;3049;Bergen (NH.);GM0373;Noord-Holland;PV27;West-Nederland;LD03
 egmond aan den hoef;Egmond aan den Hoef;3048;Bergen (NH.);GM0373;Noord-Holland;PV27;West-Nederland;LD03
@@ -452,7 +452,7 @@ bronkhorst;Bronkhorst;1530;Bronckhorst;GM1876;Gelderland;PV25;Oost-Nederland;LD0
 drempt;Drempt;1520;Bronckhorst;GM1876;Gelderland;PV25;Oost-Nederland;LD02
 halle;Halle;3575;Bronckhorst;GM1876;Gelderland;PV25;Oost-Nederland;LD02
 hengelo (gld);Hengelo (Gld);1535;Bronckhorst;GM1876;Gelderland;PV25;Oost-Nederland;LD02
-hengelo;Hengelo (Gld);1535;Bronckhorst;GM1876;Gelderland;PV25;Oost-Nederland;LD02
+hengelo gld;Hengelo (Gld);1535;Bronckhorst;GM1876;Gelderland;PV25;Oost-Nederland;LD02
 hoog-keppel;Hoog-Keppel;1521;Bronckhorst;GM1876;Gelderland;PV25;Oost-Nederland;LD02
 hoog keppel;Hoog-Keppel;1521;Bronckhorst;GM1876;Gelderland;PV25;Oost-Nederland;LD02
 hummelo;Hummelo;1523;Bronckhorst;GM1876;Gelderland;PV25;Oost-Nederland;LD02
@@ -504,10 +504,10 @@ ravenswaaij;Ravenswaaij;3382;Buren;GM0214;Gelderland;PV25;Oost-Nederland;LD02
 ravenswaay;Ravenswaaij;3382;Buren;GM0214;Gelderland;PV25;Oost-Nederland;LD02
 rijswijk (gld);Rijswijk (GLD);3383;Buren;GM0214;Gelderland;PV25;Oost-Nederland;LD02
 ryswyk (gld);Rijswijk (GLD);3383;Buren;GM0214;Gelderland;PV25;Oost-Nederland;LD02
-rijswijk;Rijswijk (GLD);3383;Buren;GM0214;Gelderland;PV25;Oost-Nederland;LD02
-ryswyk;Rijswijk (GLD);3383;Buren;GM0214;Gelderland;PV25;Oost-Nederland;LD02
+rijswijk gld;Rijswijk (GLD);3383;Buren;GM0214;Gelderland;PV25;Oost-Nederland;LD02
+ryswyk gld;Rijswijk (GLD);3383;Buren;GM0214;Gelderland;PV25;Oost-Nederland;LD02
 rijswijck (gld);Rijswijk (GLD);3383;Buren;GM0214;Gelderland;PV25;Oost-Nederland;LD02
-rijswijck;Rijswijk (GLD);3383;Buren;GM0214;Gelderland;PV25;Oost-Nederland;LD02
+rijswijck gld;Rijswijk (GLD);3383;Buren;GM0214;Gelderland;PV25;Oost-Nederland;LD02
 zoelen;Zoelen;3384;Buren;GM0214;Gelderland;PV25;Oost-Nederland;LD02
 zoelmond;Zoelmond;3385;Buren;GM0214;Gelderland;PV25;Oost-Nederland;LD02
 bussum;Bussum;1331;Bussum;GM0381;Noord-Holland;PV27;West-Nederland;LD03
@@ -729,6 +729,7 @@ termunterzyl;Termunterzijl;3243;Delfzijl;GM0010;Groningen;PV20;Noord-Nederland;L
 wagenborgen;Wagenborgen;3244;Delfzijl;GM0010;Groningen;PV20;Noord-Nederland;LD01
 woldendorp;Woldendorp;3245;Delfzijl;GM0010;Groningen;PV20;Noord-Nederland;LD01
 den helder;Den Helder;3056;Den Helder;GM0400;Noord-Holland;PV27;West-Nederland;LD03
+helder den;Den Helder;3056;Den Helder;GM0400;Noord-Holland;PV27;West-Nederland;LD03
 huisduinen;Huisduinen;3057;Den Helder;GM0400;Noord-Holland;PV27;West-Nederland;LD03
 julianadorp;Julianadorp;3058;Den Helder;GM0400;Noord-Holland;PV27;West-Nederland;LD03
 deurne;Deurne;1774;Deurne;GM0762;Noord-Brabant;PV30;Zuid-Nederland;LD04
@@ -3178,10 +3179,10 @@ andel;Andel;3301;Woudrichem;GM0874;Noord-Brabant;PV30;Zuid-Nederland;LD04
 giessen;Giessen;3302;Woudrichem;GM0874;Noord-Brabant;PV30;Zuid-Nederland;LD04
 rijswijk (nb);Rijswijk (NB);3303;Woudrichem;GM0874;Noord-Brabant;PV30;Zuid-Nederland;LD04
 ryswyk (nb);Rijswijk (NB);3303;Woudrichem;GM0874;Noord-Brabant;PV30;Zuid-Nederland;LD04
-rijswijk;Rijswijk (NB);3303;Woudrichem;GM0874;Noord-Brabant;PV30;Zuid-Nederland;LD04
-ryswyk;Rijswijk (NB);3303;Woudrichem;GM0874;Noord-Brabant;PV30;Zuid-Nederland;LD04
+rijswijk nb;Rijswijk (NB);3303;Woudrichem;GM0874;Noord-Brabant;PV30;Zuid-Nederland;LD04
+ryswyk nb;Rijswijk (NB);3303;Woudrichem;GM0874;Noord-Brabant;PV30;Zuid-Nederland;LD04
 rijswijck (nb);Rijswijk (NB);3303;Woudrichem;GM0874;Noord-Brabant;PV30;Zuid-Nederland;LD04
-rijswijck;Rijswijk (NB);3303;Woudrichem;GM0874;Noord-Brabant;PV30;Zuid-Nederland;LD04
+rijswijck nb;Rijswijk (NB);3303;Woudrichem;GM0874;Noord-Brabant;PV30;Zuid-Nederland;LD04
 uitwijk;Uitwijk;3304;Woudrichem;GM0874;Noord-Brabant;PV30;Zuid-Nederland;LD04
 uitwyk;Uitwijk;3304;Woudrichem;GM0874;Noord-Brabant;PV30;Zuid-Nederland;LD04
 uitwijck;Uitwijk;3304;Woudrichem;GM0874;Noord-Brabant;PV30;Zuid-Nederland;LD04

@@ -61,8 +61,8 @@ def main():
 	places = places.append(places_with_ij)
 
 	# Remove special tokens 
-	places_with_special_tokens = places[~(places['Variant'] == clean(places['Variant']))].copy()
-	places_with_special_tokens['Variant'] = clean(places_with_special_tokens['Variant'])
+	places_with_special_tokens = places[~(places['Variant'] == clean(places['Variant'], remove_brackets=False))].copy()
+	places_with_special_tokens['Variant'] = clean(places_with_special_tokens['Variant'], remove_brackets=False)
 	places = places.append(places_with_special_tokens)
 
 	# Add common misspellings 
