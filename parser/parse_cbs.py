@@ -95,6 +95,9 @@ def main():
 	# Remove duplicates
 	places.drop_duplicates(['Variant', 'Woonplaats', 'Provincie'], inplace=True)
 
+	# Drop placename of municipalities
+	places.loc[(places.Woonplaatscode == ''), 'Woonplaats'] = ''
+
 	# Store
 	cols=['Variant', 'Woonplaats', 'Woonplaatscode','Gemeente', 'Gemeente_code', 'Provincie', 'Provincie_code', 'Landsdeel', 'Landsdeel_code']
 
