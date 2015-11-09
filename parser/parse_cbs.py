@@ -106,7 +106,8 @@ def main():
 	places[cols].to_csv(
 		'../plaatsnamen_spelling.csv', 
 		index=False, 
-		sep=';', 
+		# sep=',', 
+		quoting=1,
 		encoding='utf-8'
 		)
 
